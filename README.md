@@ -16,22 +16,18 @@ This is a simple and effective **Java-based Quiz Application** developed using c
 ## 🧱 Project Structure
 
 Java-Project/
-├── assets/
-│ ├── quiz-start.png
-│ ├── quizStart2.png
-│ ├── question-answer.png
-│ ├── question-answer2.png
-│ └── final-score.png
-├── src/
-│ ├── QuizApp.java
-│ └── Question.java
-├── scores.txt
-├── .gitignore
-└── README.md
-
-yaml
-Copy
-Edit
+- assets/
+ ── quiz-start.png
+ ── quizStart2.png
+ ── question-answer.png
+ ── question-answer2.png
+ ── final-score.png
+- src/
+ ── QuizApp.java
+ ── Question.java
+- scores.txt
+- .gitignore
+- README.md
 
 ---
 

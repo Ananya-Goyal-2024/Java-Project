@@ -40,7 +40,7 @@ Java-Project/
 
 ### 🛠️ Compilation and Execution
 
-```bash
+bash
 cd src
 javac *.java
 java QuizApp
